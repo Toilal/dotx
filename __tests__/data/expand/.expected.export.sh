@@ -1,0 +1,8 @@
+export DATABASE_URL="postgresql://root:@wS3Z!4HbN@172.17.0.1:61534/db?schema=public&pgbouncer=true"
+export DATABASE_ENDPOINT="172.17.0.1:61534"
+export DATABASE_OPTIONS="&pgbouncer=true"
+export DATABASE_PROVIDER="postgresql"
+export DATABASE_NAME="db"
+export DATABASE_USERNAME="root"
+export DATABASE_PASSWORD="@wS3Z!4HbN"
+export DATABASE_SCHEMA="public"

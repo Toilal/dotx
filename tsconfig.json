@@ -1,0 +1,35 @@
+{
+  "include": [
+    "./lib/**/*",
+    "./__tests__/**/*",
+    ".eslintrc.cjs",
+    "jest.config.ts"
+  ],
+  "compilerOptions": {
+    "types": [
+      "node",
+      "jest"
+    ],
+    "declaration": true,
+    "declarationDir": "./.dist/types",
+    "declarationMap": true,
+    "baseUrl": "./",
+    "outDir": "./.dist",
+    "tsBuildInfoFile": "./.dist/tsconfig.tsbuildinfo",
+    "incremental": true,
+    "removeComments": true,
+    "target": "es2019",
+    "module": "esnext",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "sourceMap": true
+  },
+  "ts-node": {
+    "moduleTypes": {
+      "jest.config.ts": "cjs"
+    }
+  }
+}

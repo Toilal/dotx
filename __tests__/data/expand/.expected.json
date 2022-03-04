@@ -1,0 +1,1 @@
+{"DATABASE_URL":"postgresql://root:@wS3Z!4HbN@172.17.0.1:61534/db?schema=public&pgbouncer=true","DATABASE_ENDPOINT":"172.17.0.1:61534","DATABASE_OPTIONS":"&pgbouncer=true","DATABASE_PROVIDER":"postgresql","DATABASE_NAME":"db","DATABASE_USERNAME":"root","DATABASE_PASSWORD":"@wS3Z!4HbN","DATABASE_SCHEMA":"public"}
