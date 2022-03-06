@@ -17,8 +17,8 @@
   "author": "Toilal",
   "license": "MIT",
   "type": "module",
-  "bin": "./dist/esm/cli.js",
-  "main": "dist/esm/index.js",
+  "bin": "./dist/cli.js",
+  "main": "dist/index.js",
   "files": [
     "dist/*",
     "lib/*",
