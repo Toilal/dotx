@@ -5,7 +5,7 @@ Bridge the gap between shell commands and [dotenv](https://www.npmjs.com/package
 ## Install
 
 ```bash
-npm install --global dotx
+npm install --global @toilal/dotx
 ```
 
 ## Docs
