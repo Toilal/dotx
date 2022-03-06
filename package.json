@@ -13,7 +13,7 @@
     "bash",
     "sh"
   ],
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "author": "Toilal",
   "license": "MIT",
   "type": "module",
