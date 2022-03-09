@@ -1,4 +1,5 @@
-/* eslint-disable unicorn/no-process-exit */
+#!/usr/bin/env node
+/* eslint-disable unicorn/no-process-exit,node/shebang */
 /* eslint-disable no-process-exit */
 import { main, Options, OutputType } from './index.js'
 import yargs from 'yargs'
