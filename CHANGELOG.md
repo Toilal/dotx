@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Toilal/dotx/compare/v1.0.1...v1.0.2) (2022-03-09)
+
+
+### Bug Fixes
+
+* **bin:** add node hashbang to cli ([5ea99dd](https://github.com/Toilal/dotx/commit/5ea99ddad40357328fa65ddc1038436f41c4404b))
+
 ## [1.0.1](https://github.com/Toilal/dotx/compare/v1.0.0...v1.0.1) (2022-03-06)
 
 
